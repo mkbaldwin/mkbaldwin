@@ -1,6 +1,6 @@
 ### Hi there I'm Michael. 👋
 
-I am a software engineer and technical lead. On my Github profile you will find personal project and experiments I've been working on. I sometimes write about development and technology on my [blog](https://michael.codes/blog/) and also on [dev.to](https://dev.to/mkbaldwin).
+I am a software engineer and technical lead. On my Github profile you will find personal projects and experiments I've been working on. I sometimes write about development and technology on my [blog](https://michael.codes/blog/) and also on [dev.to](https://dev.to/mkbaldwin).
 
 ### Find me other places on the web:
 
