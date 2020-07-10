@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there I'm Michael. 👋
+
+I am a software engineer and technical lead. On my Github profile you will find personal project and experiments I've been working on. I sometimes write about development and technology on my [blog](https://michael.codes/blog/) and also on [dev.to](https://dev.to/mkbaldwin).
+
+### Find me other places on the web:
+
+  * [Web site/blog](https://michael.codes/)
+  * [Twitter](https://www.twitter.com/mkbaldwin21)
+  * [Dev.to](https://dev.to/mkbaldwin)
+  * [LinkedIn](https://www.linkedin.com/in/mkbaldwin21)
 
 <!--
 **mkbaldwin/mkbaldwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
