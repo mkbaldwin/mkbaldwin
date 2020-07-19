@@ -1,0 +1,12 @@
+/lib/
+README_END.md
+feed.xml
+.idea/$CACHE_FILE$
+.idea/.gitignore
+.idea/compiler.xml
+.idea/kotlinc.xml
+.idea/misc.xml
+.idea/mkbaldwin.iml
+.idea/modules.xml
+.idea/vcs.xml
+info.txt
