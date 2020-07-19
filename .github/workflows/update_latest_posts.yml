@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: Update Latest Posts
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
@@ -28,3 +28,19 @@ jobs:
 
     - name: Fetch website Atom Feed
       run: curl https://michael.codes/feed.xml > feed.xml 
+    
+    - name: Perform XSL Transformation
+      run: java -cp ./saxon.jar net.sf.saxon.Transform -s:feed.xml -xsl:$GITHUB_WORKSPACE/scripts/recent-posts.xslt -o:README_END.md
+
+    - name: Combine Files
+      run: cat $GITHUB_WORKSPACE/README_START.md README_END.md > $GITHUB_WORKSPACE/README.md
+    
+    - name: Commit Changes
+      run:  |
+        git add README.md
+        git diff
+        git config --global user.email "github-action-bot@example.com"
+        git config --global user.name "GitHub Action Bot"
+        git commit -m "Updated README" -a || echo "No changes to commit"
+        git push
+        
