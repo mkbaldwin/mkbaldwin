@@ -8,6 +8,8 @@ I am a software engineer and technical lead. On my Github profile you will find 
   * [Twitter](https://www.twitter.com/mkbaldwin21)
   * [Dev.to](https://dev.to/mkbaldwin)
   * [LinkedIn](https://www.linkedin.com/in/mkbaldwin21)
+  * [ACM Digital Library](https://dl.acm.org/profile/81436599829)
+  * [ORCID](https://orcid.org/0000-0003-4798-8186)
 
 <!--
 **mkbaldwin/mkbaldwin** is a ✨ _special_ ✨ repository because its `README_START.md` (this file) appears on your GitHub profile.
