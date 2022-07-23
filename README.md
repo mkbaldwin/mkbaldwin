@@ -5,7 +5,6 @@ I am a software engineer and technical lead. On my Github profile you will find 
 ### Find me other places on the web:
 
   * [Web site/blog](https://michael.codes/)
-  * [Twitter](https://www.twitter.com/mkbaldwin21)
   * [Dev.to](https://dev.to/mkbaldwin)
   * [LinkedIn](https://www.linkedin.com/in/mkbaldwin21)
   * [ACM Digital Library](https://dl.acm.org/profile/81436599829)
