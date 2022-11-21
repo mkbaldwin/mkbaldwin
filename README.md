@@ -9,7 +9,7 @@ I am a software engineer and technical lead. On my Github profile you will find 
   * [LinkedIn](https://www.linkedin.com/in/mkbaldwin21)
   * [ACM Digital Library](https://dl.acm.org/profile/81436599829)
   * [ORCID](https://orcid.org/0000-0003-4798-8186)
-  * <a rel="me" href="https://hachyderm.io/@michaelcodes">Mastodon</a>
+  * [Mastodon](https://hachyderm.io/@michaelcodes) @michaelcodes@hachyderm.io 
 
 <!--
 **mkbaldwin/mkbaldwin** is a ✨ _special_ ✨ repository because its `README_START.md` (this file) appears on your GitHub profile.
